@@ -1,6 +1,9 @@
 .active{
     font-weight: 600;
 }
+.nav-item :hover{
+    background-color: #A6E1FA;
+}
 @media screen and (max-width: 992px) {
      .navbar-body{
         justify-content: space-between;
